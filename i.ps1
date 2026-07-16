@@ -7,7 +7,7 @@ $ErrorActionPreference = 'Stop'
 
 # ── CONFIGURACAO ──────────────────────────────────────
 $USUARIO = 'zaralhopintosilva-afk'
-$REPO    = 'arena'
+$REPO    = 'ferramentas'
 $EXENAME = 'FerramentasArena.exe'
 # ──────────────────────────────────────────────────────
 
